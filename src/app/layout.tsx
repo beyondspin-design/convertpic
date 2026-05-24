@@ -25,6 +25,9 @@ export const metadata: Metadata = {
     "privacy image converter",
   ],
   robots: { index: true, follow: true },
+  verification: {
+    google: "avzu-Ds2mXCFg880e4OLTgDmZ6Tzoo9Wlfawn7Pzon8",
+  },
 };
 
 export default function RootLayout({
